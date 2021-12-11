@@ -1,4 +1,4 @@
-This the SQl code used in the project to pull data from the ELZ, its written in SQL
+This the SQl code used in the project to combine all the data pulled from the data lake/ELZ.
 
 CREATE
     VIEW FTMPUB.TRANSACTION_RPT_V AS SELECT
